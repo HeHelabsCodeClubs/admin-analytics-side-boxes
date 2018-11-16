@@ -1,0 +1,10 @@
+.summary-component .dashboard-top-right {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.summary-component .dashboard-top-right .shadow-box {
+    text-align: center;
+    padding: 2rem 0 !important;
+    margin: 0 0 2rem 10%;
+    width: 40%;
+}
